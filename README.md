@@ -1,6 +1,6 @@
 # EX 1
 # COLOR_CONVERSIONS_OF-IMAGE
-# DATE
+## DATE:
 ## AIM
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -104,8 +104,8 @@ cv2.imshow('Image Window', res_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![image](https://github.com/user-attachments/assets/f9163c6c-061c-423e-9ed1-d21bee89b2d1)
-![image](https://github.com/user-attachments/assets/8d443cea-3021-40e2-8a5d-15fd006a8313)
+![image](https://github.com/user-attachments/assets/54e78b14-ad62-4507-a6d4-c8b8370cdfd7)
+![WhatsApp Image 2024-11-18 at 21 34 21_d3111452](https://github.com/user-attachments/assets/64371dd7-c554-40e0-8f59-1ae63a8aa8f5)
 ![image](https://github.com/user-attachments/assets/c0cbcdc0-6787-4a67-ab6f-ab2f2afb3086)
 
 
@@ -168,7 +168,8 @@ print(f"Pixel value at (100, 100): {pixel_value}")
 image[200, 200] = [255, 255, 255]
 print(f"Modified pixel value at (200, 200): {image[200, 200]}")
 ```
-![image](https://github.com/user-attachments/assets/66bf0b1a-3b5a-4da3-a159-90b507f5eeed)
+![image](https://github.com/user-attachments/assets/bb98af8d-c8a5-40bc-b99c-f994f00bb046)
+
 <br>
 <br>
 
@@ -230,7 +231,7 @@ output_path = 'output.jpg'
 cv2.imwrite(output_path, image_with_text)
 print(f"Modified image saved as {output_path}")
 ```
-![image](https://github.com/user-attachments/assets/d6ad0554-365a-4c30-a515-8967af1101f1)
+![image](https://github.com/user-attachments/assets/c87f5434-b737-405f-b0eb-4c67d15478e9)
 <br>
 <br>
 
